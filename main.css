@@ -658,6 +658,7 @@ input:focus {
 .android-large-3 .join-for-free-sqwA4O {
     left: 2px;
     top: 12px;
+    word-wrap: break-word;
 }
 
 
@@ -3376,12 +3377,13 @@ input:focus {
 .android-large-3 .join-for-free {
     background-color: transparent;
     height: auto;
+    word-wrap: break-word;
     letter-spacing: 0.00px;
     line-height: 24px;
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    white-space: nowrap;
+    /* white-space: nowrap; */
     width: auto;
     top: 3336px;
     z-index: 5000;
