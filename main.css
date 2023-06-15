@@ -2487,7 +2487,7 @@ input:focus {
     background-color: transparent;
     color: var(--black);
     font-family: var(--font-family-inter);
-    font-size: 32px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 700;
     height: auto;
@@ -2559,6 +2559,15 @@ input:focus {
     position: absolute;
     top: 2733px;
     width: 360px;
+}
+
+.android-large-3 .group-664-6xtG6n-video {
+    background-color: transparent;
+    height: 224px;
+    left: 15px;
+    position: absolute;
+    top: 2582px;
+    width: 325px;
 }
 
 .android-large-3 .frequently-asked-questions-6xtG6n {
@@ -4202,14 +4211,14 @@ input:focus {
     height: 414px;
     left: 217px;
     position: absolute;
-    top: 3536px;
+    top: 3591px;
     width: 684px;
 }
 
 .desktop-48 .group-7030-207TlU {
     background-color: transparent;
     height: 350px;
-    left: 608px;
+    left: 926px;
     position: absolute;
     top: 3591px;
     width: 628px;
@@ -4219,7 +4228,7 @@ input:focus {
     background-color: var(--heading--white);
     border-radius: 8px;
     box-shadow: 0px 4px 32px #1878e514;
-    height: 350px;
+    height: 372px;
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
@@ -8763,8 +8772,17 @@ input:focus {
     height: 560px;
     left: 187px;
     position: absolute;
-    top: 5369px;
+    top: 5516px;
     width: 926px;
+}
+
+.ipad-pro-12-9-1 .group-664-ohxhu3-video {
+    background-color: transparent;
+    height: 266px;
+    left: 187px;
+    position: absolute;
+    top: 5298px;
+    width: 620px;
 }
 
 .ipad-pro-12-9-1 .frequently-asked-questions-ohxhu3 {
@@ -10020,11 +10038,11 @@ input:focus {
     background-color: var(--heading--white);
     border-radius: 8px;
     box-shadow: 0px 4px 32px #1878e514;
-    height: 350px;
+    height: 266px;
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 0px;
+    top: 65px;
     width: 620px;
 }
 
@@ -10138,11 +10156,11 @@ input:focus {
     background-color: var(--heading--white);
     border-radius: 8px;
     box-shadow: 0px 4px 32px #1878e514;
-    height: 315px;
+    height: 208px;
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4px;
+    top: 63px;
     width: 620px;
 }
 
@@ -10240,13 +10258,13 @@ input:focus {
     font-style: normal;
     font-weight: 600;
     height: auto;
-    left: 102px;
+    left: 17px;
     letter-spacing: 0.00px;
     line-height: normal;
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 31px;
+    top: 73px;
     width: auto;
 }
 
@@ -10258,13 +10276,13 @@ input:focus {
     font-style: normal;
     font-weight: 400;
     height: auto;
-    left: 102px;
+    left: 17px;
     letter-spacing: 0.00px;
     line-height: normal;
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 64px;
+    top: 106px;
     width: auto;
 }
 
@@ -10278,13 +10296,13 @@ input:focus {
     font-style: normal;
     font-weight: 600;
     height: auto;
-    left: 102px;
+    left: 19px;
     letter-spacing: 0.00px;
     line-height: normal;
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 31px;
+    top: 71px;
     width: auto;
 }
 
@@ -10296,13 +10314,13 @@ input:focus {
     font-style: normal;
     font-weight: 400;
     height: auto;
-    left: 102px;
+    left: 19px;
     letter-spacing: 0.00px;
     line-height: normal;
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 64px;
+    top: 104px;
     width: auto;
 }
 
